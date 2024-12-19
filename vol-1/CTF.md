@@ -170,6 +170,8 @@ style: |
 
 ### 問題 1: 基本的な暗号解読
 
+### 問題 1: 基本的な暗号解読
+
 > **説明:**
 > 以下の暗号文を解読し、フラッグ形式 `flag{...}` で答えを提出してください。
 >
@@ -184,6 +186,8 @@ style: |
 **キーワード:**
 
 - Base64 デコード
+
+![bg right:50% 90%](Questions/Question1/QR.png)
 
 ---
 
@@ -218,6 +222,8 @@ echo "U2VjdXJpdHlJc1Bvd2Vy" | base64 -d
 **キーワード:**
 
 - 16 進数 文字 変換
+
+![bg right:50% 90%](Questions/Question2/QR.png)
 
 ---
 
