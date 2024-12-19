@@ -277,7 +277,7 @@ Dencode の場合
 > **説明:**
 > 以下のバイナリファイルを解析し、フラグ形式 `flag{...}` で答えを提出してください。
 >
-> [ダウンロードリンク](https://github.com/fukayatti0/neowaku-LT/raw/refs/heads/main/vol-1/sample/DecodeBinary)
+> [ダウンロードリンク](https://github.com/fukayatti0/neowaku-LT/raw/refs/heads/main/vol-1/Questions/Question3/DecodeBinary)
 
 ---
 
